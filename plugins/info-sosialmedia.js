@@ -4,8 +4,8 @@ let handler = async (m) => {
 let krizyn = `
 ╭─❑ 「 *SOSIAL MEDIA* 」 ❑──
 │ Follow sosial media
-│ DaniBotz yuk biar saling
-│ kenal...
+│ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏 yuk biar
+│saling kenal...
 ╰❑
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya6)).buffer()}, { upload: conn.waUploadToServer }) 
