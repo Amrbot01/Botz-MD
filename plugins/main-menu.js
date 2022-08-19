@@ -50,7 +50,7 @@ const defaultMenu = {
 │ ➪ Orang Tua
 │ ➪ Kesabaran
 │ ➪ Penyemangat
-│ ➪ Nurutomo
+│ ➪ Amirr
 │ ➪ Ilmanhdyt
 │ ➪ Elyas
 │ ➪ Hyzer
