@@ -17,35 +17,35 @@ let krizyn = `
            hydratedFooterText: '',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Tiktok DaniBotz📨',
+               displayText: 'Tiktok 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏📨',
                url: tt
              }
 
            },
                 {
                urlButton: {
-               displayText: 'Youtube DaniBotz🔥',
+               displayText: 'Youtube 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏🔥',
                url: yt
              }
 
            },
                {
 urlButton: {
-               displayText: 'Instagram DaniBotz📸',
+               displayText: 'Instagram 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏📸',
                url: webm
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'STORE DANIBOTZ',
+               displayText: 'STORE 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏',
                id: '.store',
              }
              
            },
                {
              quickReplyButton: {
-               displayText: 'BIODATA DANIBOTZ',
+               displayText: 'BIODATA 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏',
                id: '.biodata',
              }
 
