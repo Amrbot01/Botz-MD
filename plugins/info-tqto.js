@@ -8,8 +8,8 @@ let fetch = require( 'node-fetch' )
 let handler = async (m, { conn, usedPrefix }) => {
     let tqto = `*BIG THANKS TO*
 
-🔥Nurutomo: 
-https://github.com/Nurutomo
+🔥Amirrr: 
+https://github.com/Amrbot01
 🔥Elyas:
 https://github.com/Paquito1923
 🔥Hyzer Official:
